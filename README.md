@@ -6,7 +6,7 @@ The file seamcarving.c calculates the dual-gradient energy function for an image
 ![image](https://user-images.githubusercontent.com/31375351/149880406-c096fe2e-eab6-4cfa-98ee-a95b31c05b08.png)
 ![image](https://user-images.githubusercontent.com/31375351/149880423-2da8c97c-a753-4c6b-a55a-439f196c7bc8.png)
 
-The original image (left) and the energy image with minimum energy path (right) 
+The original image (Top) and the energy image with minimum energy path (Bottom) 
 
 ![output](https://user-images.githubusercontent.com/31375351/149880080-7863436e-856c-4a8c-a2d5-a92472cd2201.gif)
 
