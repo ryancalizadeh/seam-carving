@@ -1,6 +1,4 @@
 # seam-carving
-Calculates and removes minimum energy seam from image using Dijkstra's algorithm to remove undesirable parts of image.
-
 The file seamcarving.c calculates the dual-gradient energy function for an image, creates a new image from the energy values, and determines the minimum cost path from the top to bottom of the energy image using dynamic programming. The path is then removed from the image.
 
 ![image](https://user-images.githubusercontent.com/31375351/149880406-c096fe2e-eab6-4cfa-98ee-a95b31c05b08.png)
